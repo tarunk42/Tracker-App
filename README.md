@@ -4,7 +4,7 @@
 
 ### App Overview
 
-This app track users over a map, tracking the path they traveled by any means. The use can do CRUD (create, Read, Update and Delete) operations on the tracks. Each user can access its own data using Account Signup functionality. The app is made using the following software:
+This app track users over a map, tracking the path they traveled by any means. The user can do CRUD (create, Read, Update and Delete) operations on the tracks. Each user can access its own data using Account Signup functionality. The app is made using the following software:
 
 - NodeJS
 - ExpressJS
