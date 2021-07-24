@@ -15,7 +15,7 @@ This app track users over a map, tracking the path they traveled by any means. T
 To run the project:
 
 - Clone the repository. [Copy this](https://github.com/tarunk42/Tracker-App.git)
-- Run `expo install` in the root directory. This will install all depemdencies.
+- Run `expo install` in the root directory. This will install all dependencies.
 - Run `expo start` to run the expo server.
 
 ### App ScreenShots:
